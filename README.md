@@ -1,25 +1,29 @@
-# Amazon Homepage Clone
+# 🛒 Amazon Homepage Clone
 
-A responsive front-end clone of the Amazon homepage built using HTML, CSS, and JavaScript. This project was created to replicate the visual design and layout of Amazon's interface and to sharpen front-end development skills.
-## Features
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://vanshika-official.github.io/Amazon.clone/)
 
-- Clean and structured replica of Amazon’s homepage
-- Responsive design using Flexbox and/or CSS Grid
-- Navigation bar with logo, search bar, and cart icon
-- Product section layouts with hover effects and styling transitions
-- Footer with typical Amazon links
+A responsive **front-end clone** of the Amazon homepage built using **HTML, CSS, and JavaScript**.  
+This project replicates the look and feel of Amazon’s homepage to sharpen front-end development skills.  
 
-**Tech Stack**
-HTML – Markup structure
-CSS– Styling and layout (Flexbox, Grid)
-JavaScript – Basic interactivity (optional, e.g., navbar toggle)
+---
 
-**How to Run Locally**
-1. Clone the repository:
-git clone https://github.com/Vanshika-OFFICIAL/Amazon.clone.git
-2. Navigate to the folder:
-cd Amazon.clone
-3. Open index.html in your browser.
+## ✨ Features
 
- **License**
- This project is for educational and personal use only. All Amazon trademarks are property of Amazon.com, Inc.
+- 🏗️ **Structured Layout** – clean replica of Amazon’s homepage  
+- 📱 **Responsive Design** – works across desktop, tablet & mobile (Flexbox/Grid)  
+- 🔎 **Navigation Bar** – with logo, search bar, and cart icon  
+- 🛍️ **Product Sections** – styled product cards with hover effects  
+- ⚡ **Footer Section** – similar to Amazon with links  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – semantic markup  
+- **CSS3** – Flexbox & Grid for layout, transitions & hover effects  
+- **JavaScript** – for basic interactivity (e.g., navbar toggle)  
+
+---
+
+## 📂 Project Structure
+
